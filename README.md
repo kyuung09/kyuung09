@@ -16,4 +16,13 @@
 
 ###
 
+### How to reach me? 🤔
+  
+- 📮 Kyuu's email 
+  
+- 📝 Kyuu's Blog
+  
+##
+###
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuung09&show_icons=true&theme=nord)
