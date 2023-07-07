@@ -1,35 +1,22 @@
-### Hi there 👋
 
-- 🖥 I'm used to work as a security solution engineer ...
-- 🌱 I’m currently learning ...
-- ✊🏻 I’m going to be a developer ...
-
-### Tech Stack
-
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Springjpa-4FC08D?style=for-the-badge&logo=jpa&logoColor=white"> 
   
-  <br>
-  
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">  
-  <img src="https://img.shields.io/badge/amazon rds-61DAFB?style=for-the-badge&logo=amazonrds&logoColor=white"> 
-  <img src="https://img.shields.io/badge/amazon s3-E34F26?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-</div>
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DCEAFF&title_bg=%23DCEAFF&icon=&icon_color=%23FFFFFF&title=viewer&edge_flat=false)](https://hits.seeyoufarm.com)
 
-###
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hi%20I'm%20Kyuu!&fontSize=70)
+
+
+### Hello there!👋 
+
+I'm kyuu, a passionate web3 backend developer. 
+
+I am delighted to have the opportunity to explore the realm of decentralized technology and blockchain as a newcomer in the field. 
+My expertise lies in utilizing Java and Spring for web development, enabling me to contribute effectively to the Web3 ecosystem.
+
+I appreciate your visit to my profile, and I eagerly anticipate connecting with like-minded developers and enthusiasts who share a profound passion for Web3 and decentralized technologies.
+
+
 
 ### How to reach me? 🤔
   
-- 📮 [Kyuu's email](kyuung09@gmail.com)
-  
-- 📝 [Kyuu's Blog](https://kyuu-ng.tistory.com/)
-  
-  
-##
-###
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyuung09&show_icons=true&theme=nord)
+- 📮 [Email](kyuung09@gmail.com)
